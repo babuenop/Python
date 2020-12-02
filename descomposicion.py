@@ -10,7 +10,7 @@ class Automovil:
         if  tipo=='rapida':
             self._motor.inyecta_gasolina(10)
         else tipo=='despacio'
-            self._motor.inyecta_gasolina(5)
+            self._motor.inyecta_gasolina(5 )
 
 class Motor:
     def __init__(self, cilindros, tipo='gasolina'):
