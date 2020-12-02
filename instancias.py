@@ -16,4 +16,4 @@ if __name__ == '__main__':
     print(coor_1.distancia(coor_2))
     print(isinstance(coor_2, coordenada))
     print(isinstance(3, coordenada))
-    
+
