@@ -19,4 +19,5 @@ class Motor:
         self._temperatura = 0
 
     def inyecta_gasolina(self, cantidad):
+        
         pass
