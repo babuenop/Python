@@ -1,4 +1,9 @@
-## Scope o Alcance
+<div align="center"> 
+  <img src="readme_img/python.png" width="250">
+</div>
+
+
+# Scope o Alcance
 Tambien podemos enviar funciones como argumentos. 
 Frames es como funcionan internamente los lenguajes de 
 programacion 
