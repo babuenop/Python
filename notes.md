@@ -159,3 +159,27 @@ No se puede elegir el valor correcto sin algo de conocimiento adicional.
 Y esta es la pista: 123 es un literal, y c no lo es.
 
 Se utilizan literales para **codificar datos y ponerlos dentro del código**. Ahora mostraremos algunas convenciones que se deben seguir al utilizar Python.
+
+## Notacion Asintotica
+Conforme el input se va al infinito.
+
+Crecimiento asintotico
+No importan variaciones pequeñas
+El enfoque se centra en lo que pasa conforme al tamaño del problema se acerca al infinito
+
+Mejor de los casos, promedio, peor de los casos.
+
+Big O Notation.
+
+Nada mas importa el termino de mayor tamaño
+
+# Algoritmos de busqueda y ordenacion
+## Busqueda lineal
+Busca en todos los elementos de manera secuencial. ¿Cual es el peor caso?
+
+## Busqueda Binaria
+Divide y conquista
+El problema se divide en 2 en cada iteracion
+Cual es el peor caso?
+
+
