@@ -1,7 +1,3 @@
-<div align="center"> 
-  <img src="readme_img/python.png" width="250">
-</div>
-
 
 # Scope o Alcance
 Tambien podemos enviar funciones como argumentos. 
@@ -11,7 +7,7 @@ En python leemos de arriba hacia abajo y  de izquierda a
 derecha. 
 
 # Especificaciones del codigo.
-===========================
+
 Con """ Podemos crear multinineas en python
 Para describir una funcion debemos especificar los parametros y
 especificar el resultado de la funcion. 
