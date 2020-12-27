@@ -139,6 +139,8 @@ def main(numero_de_tiros, numero_de_intentos):
     p0 = t0/numero_de_intentos
     p00 = t00/numero_de_intentos
 
+    media = (t1+t2+t3+t2+t3+t4+t5+t6+t7+t8+t9+t10+t11+t12+t13+t14+t15+t16+t17+t18+t19+t20+t21+t22+t23+t24+t25+t26+t27+t28+t29+t30+t31+t32+t33+t34+t35+t36+t0+t00)/38
+    print (f'la media de tiros por numero es = {media}')
     print(p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,p20,p21,p22,p23,p24,p25,p26,p27,p28,p29,p30,p31,p32,p33,p34,p35,p36,p00,p0)
 
     graficar(numbers,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,p20,p21,p22,p23,p24,p25,p26,p27,p28,p29,p30,p31,p32,p33,p34,p35,p36,p00,p0)
