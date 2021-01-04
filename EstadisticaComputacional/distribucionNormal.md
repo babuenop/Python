@@ -1,8 +1,7 @@
-### *Distribución Normal*
+## *Distribución Normal*
 
 La distribución normal es una distribución con forma de campana donde las desviaciones estándar sucesivas con respecto a la media establecen valores de referencia para estimar el porcentaje de observaciones de los datos. Estos valores de referencia son la base de muchas pruebas de hipótesis, como las pruebas Z y t.
 
-![Curso%20de%20Ingenieri%CC%81a%20de%20Datos%20con%20Python%2014458972d2bf40ea814078a2ddb14457/Untitled.png](Curso%20de%20Ingenieri%CC%81a%20de%20Datos%20con%20Python%2014458972d2bf40ea814078a2ddb14457/Untitled.png)
 
 ****Histograma de una distribución normal hipotética****
 Puesto que la distribución de estos datos es normal, usted puede determinar exactamente qué porcentaje de los valores está dentro de cualquier rango específico. Por ejemplo:
